@@ -1,15 +1,27 @@
 h1 {
-    background-image: url("https://photos.smugmug.com/EMARS/n-9XbhpW/NEW-PHOTOS-EMARS/i-sTb4NTf/0/f67bea0c/S/5Z1A4454-S.jpg");
+    font-size: 120px;
+    text-align: center;
+    color: lightyellow;
+    
+}
+
+
+
+.heading {
+    background-image: url("https://photos.smugmug.com/photos/i-sTb4NTf/0/X4/i-sTb4NTf-X4.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 43% auto;
-    font-size: 80px;
-    text-align: center;
-    color: aquamarine;
-}
+    background-size: 100% auto;
+    background-position-y: 38%;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 30px;
+    }
 
 h2{
     text-align: center;
+    color: thistle;
+    font-size: 60px;
 }
 
 
@@ -22,4 +34,14 @@ table, tr, td, th {
 table {
     margin-left: auto;
     margin-right: auto;
+    width: 75%;
+}
+
+body {
+  background-image: url("https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3Vwd2s2MjEzNzgwMy13aWtpbWVkaWEtaW1hZ2UtMDMtbW9ja3VwLXJtNjQ5LnBuZw.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
 }
